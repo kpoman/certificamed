@@ -3770,7 +3770,7 @@ small {
 
 .btn-floating {
   display: inline-block;
-  color: #fff;
+  color: #051d43;
   position: relative;
   overflow: hidden;
   z-index: 1;
@@ -3813,7 +3813,7 @@ small {
     width: inherit;
     display: inline-block;
     text-align: center;
-    color: #fff;
+    color: #051d43;
     font-size: 1.6rem;
     line-height: 40px; }
 

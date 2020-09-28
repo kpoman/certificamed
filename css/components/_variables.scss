@@ -100,7 +100,7 @@ $button-flat-disabled-color: lighten(#999, 10%) !default;
 $button-floating-background: $secondary-color !default;
 $button-floating-background-hover: $button-floating-background !default;
 //$button-floating-color: #fff !default;
-$button-floating-color: $primary-color !default;
+$button-floating-color: darken($primary-color, 20%) !default;
 $button-floating-size: 40px !default;
 $button-floating-radius: 50% !default;
 
