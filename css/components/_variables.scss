@@ -34,14 +34,21 @@
 // 1. Colors
 // ==========================================================================
 
-$primary-color: color("indigo", "lighten-2") !default;
-$primary-color-light: lighten($primary-color, 15%) !default;
-$primary-color-dark: darken($primary-color, 15%) !default;
+//$primary-color: color("indigo", "lighten-2") !default;
+//$primary-color-light: lighten($primary-color, 15%) !default;
+//$primary-color-dark: darken($primary-color, 15%) !default;
+$primary-color: #0d47a1 !default;
+$primary-color-light: #5472d3 !default;
+$primary-color-dark: #002171 !default;
 
-$secondary-color: color("teal", "lighten-1") !default;
-$success-color: color("green", "base") !default;
-$error-color: color("red", "base") !default;
-$link-color: color("light-blue", "darken-1") !default;
+//$secondary-color: color("teal", "lighten-1") !default;
+//$success-color: color("green", "base") !default;
+//$error-color: color("red", "base") !default;
+//$link-color: color("light-blue", "darken-1") !default;
+$secondary-color: #ffc107 !default;
+$success-color: #4caf50 !default;
+$error-color: #f44336 !default;
+$link-color: #b39ddb !default;
 
 
 // 2. Badges
