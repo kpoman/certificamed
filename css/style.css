@@ -3759,7 +3759,7 @@ small {
 
 .btn, .btn-large, .btn-small {
   text-decoration: none;
-  color: #fff;
+  color: #020913;
   background-color: #ffc107;
   text-align: center;
   letter-spacing: .5px;
@@ -5467,7 +5467,7 @@ input[type=range]::-ms-thumb {
     .sidenav li > a.btn, .sidenav li > a.btn-large, .sidenav li > a.btn-small, .sidenav li > a.btn-large, .sidenav li > a.btn-flat, .sidenav li > a.btn-floating {
       margin: 10px 15px; }
     .sidenav li > a.btn, .sidenav li > a.btn-large, .sidenav li > a.btn-small, .sidenav li > a.btn-large, .sidenav li > a.btn-floating {
-      color: #fff; }
+      color: #020913; }
     .sidenav li > a.btn-flat {
       color: #343434; }
     .sidenav li > a.btn:hover, .sidenav li > a.btn-large:hover, .sidenav li > a.btn-small:hover, .sidenav li > a.btn-large:hover {
