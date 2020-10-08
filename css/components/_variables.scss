@@ -162,8 +162,10 @@ $timepicker-clock-plate-bg: #eee !default;
 // 9. Dropdown
 // ==========================================================================
 
-$dropdown-bg-color: #fff !default;
-$dropdown-hover-bg-color: #eee !default;
+//$dropdown-bg-color: #fff !default;
+$dropdown-bg-color: lighten($primary-color, 80%) !default;
+//$dropdown-hover-bg-color: #eee !default;
+$dropdown-hover-bg-color: lighten($primary-color, 40%)  !default;
 $dropdown-color: $secondary-color !default;
 $dropdown-item-height: 50px !default;
 
